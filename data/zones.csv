@@ -1,0 +1,5 @@
+zone_id,zone_name,city,risk_score,base_premium_monthly,weekly_payout_cap,members
+Z1,North Chennai,Chennai,0.4,150.0,50000.0,1200
+Z2,South Chennai,Chennai,0.7,220.0,80000.0,2000
+Z3,East Chennai,Chennai,0.9,180.0,60000.0,1500
+Z4,Tambaram,Chennai,0.3,120.0,40000.0,800
